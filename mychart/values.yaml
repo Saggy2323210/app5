@@ -1,0 +1,6 @@
+replicaCount: 1
+
+image:
+  repository: saggy2323210/app6
+  pullPolicy: Always
+  tag: latest
